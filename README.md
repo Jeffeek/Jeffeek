@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mikhail Ilyushin aka Jeffeek</h1>
+<h1 align="center">Hi 👋, I'm Mikhail Ilyushin</h1>
 <h3 align="center">.NET developer from Belarus, Minsk</h3>
 
 - 🔭 I’m currently working on: [FoundersPC](https://github.com/Jeffeek/FoundersPC)
@@ -18,7 +18,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="https://linkedin.com/in/ilyushinmikhail" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilyushinmikhail" height="30" width="40" />
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ilyushinmikhail" height="30" width="40" />
  </a>
  <a href="https://vk.com/minejeffeek" target="blank">
    <img align="center" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vk.com/minejeffeek" height="30" width="40" />
@@ -28,7 +28,7 @@
 <h2 align="center">Programming Section</h2>
 <p align="center">
  <a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnet" width="40" height="40"/>
  </a>
  <a href="https://www.w3schools.com/cs/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -41,9 +41,6 @@
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
  </a>
 </p>
 
