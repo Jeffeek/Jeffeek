@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mikhail Ilyushin</h1>
-<h3 align="center">.NET developer from Belarus, Minsk</h3>
+<h1 align="center">Hi 👋, I'm Mikhail Ilyushin
+ <h2 align="center">
+  .NET developer from Belarus, Minsk
+ </h2>
+</h1>
 
 - 🔭 I’m currently working on: [FoundersPC](https://github.com/Jeffeek/FoundersPC)
 
