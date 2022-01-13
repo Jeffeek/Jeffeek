@@ -5,7 +5,7 @@
   .NET developer from Belarus, Minsk
  </h2>
  <h2 align="center">
-    Working at the Qulix Systems as a Junior .NET Developer
+    Working at the Qulix Systems as a Middle .NET Developer
  </h2>
 </h1>
 
