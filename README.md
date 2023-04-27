@@ -24,9 +24,6 @@
  <a href="https://linkedin.com/in/ilyushinmikhail" target="blank">
    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ilyushinmikhail" height="30" width="40" />
  </a>
- <a href="https://vk.com/minejeffeek" target="blank">
-   <img align="center" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vk.com/minejeffeek" height="30" width="40" />
- </a>
 </p>
 
 <h2 align="center">Programming Section</h2>
