@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mikhail Ilyushin
  <h2 align="center">
-  .NET developer from Belarus, Minsk
+  .NET developer from Wrocław, Poland
  </h2>
  <h2 align="center">
     Working at the Qulix Systems as a Middle .NET Developer
